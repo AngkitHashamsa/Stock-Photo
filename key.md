@@ -1,4 +1,0 @@
-Access Key:
-sNXeMw7h_xAS_xtrSPs9Tb9wuBXaUDUtVEhuDOAHcVg
-Secret key:
-nLF_fTspDH12zgsdsQXOj61q_in8YXLVzm-QDNGl6BE
