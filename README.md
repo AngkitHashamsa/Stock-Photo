@@ -1,3 +1,1 @@
-live site on :https://relaxed-payne-9d6387.netlify.app
-
-site
+live site on :https://jolly-curie-dadb5a.netlify.app/
